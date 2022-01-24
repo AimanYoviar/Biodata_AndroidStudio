@@ -1,0 +1,8 @@
+<resources>
+        <string name="Biodata">Biodata</string>
+        <string name="nama">Nama</string>
+        <string name="ttl">TTL</string>
+        <string name="Kelas">Kelas</string>
+        <string name="Hobi">Hobi</string>
+        <string name="simpan">Save</string>
+</resources>
